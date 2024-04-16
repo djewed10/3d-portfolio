@@ -1,0 +1,8 @@
+Model Information:
+* title:	Earth: Our Fragile Home
+* source:	https://sketchfab.com/3d-models/earth-our-fragile-home-de97ac7081cd443584c4707efd14725a
+* author:	3DGB (https://sketchfab.com/peer123)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

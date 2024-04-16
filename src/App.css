@@ -1,0 +1,47 @@
+html,body{
+    overflow-x: hidden;
+    max-width: 100%;
+      margin: 0;
+      padding: 0;
+      overflow-y: auto;
+      
+    }
+
+@media(max-width:1200px){
+    .mount{
+ margin-left: 26px;
+ margin-right: 26px;
+    width: auto;
+}}
+.workss{
+    
+    
+    box-shadow: 0px 0px 20px 5px rgba(255, 0, 255, 0.5);;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container{
+    box-shadow: 0px 0px 20px 5px white;;
+}
+@media(min-width:1300px){
+    .ww{
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+@media(min-width:2300px){
+    .ww{
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
+@media(max-width:500px){
+    .ii{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .ww{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
